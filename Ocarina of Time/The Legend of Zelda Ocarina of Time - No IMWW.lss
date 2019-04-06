@@ -12,7 +12,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>267</AttemptCount>
+  <AttemptCount>269</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" />
     <Attempt id="2" />
@@ -661,6 +661,10 @@
     <Attempt id="524" started="03/31/2019 12:31:37" isStartedSynced="True" ended="03/31/2019 13:54:31" isEndedSynced="True">
       <RealTime>01:22:54.1590000</RealTime>
     </Attempt>
+    <Attempt id="525" started="04/06/2019 05:43:38" isStartedSynced="False" ended="04/06/2019 05:43:39" isEndedSynced="False" />
+    <Attempt id="526" started="04/06/2019 06:02:11" isStartedSynced="False" ended="04/06/2019 07:27:26" isEndedSynced="False">
+      <RealTime>01:25:14.5770000</RealTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -1193,6 +1197,7 @@
         <Time id="524">
           <RealTime>00:05:16.4940000</RealTime>
         </Time>
+        <Time id="526" />
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1623,6 +1628,9 @@
         <Time id="524">
           <RealTime>00:04:15.8370000</RealTime>
         </Time>
+        <Time id="526">
+          <RealTime>00:10:31.3830000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1953,6 +1961,9 @@
         <Time id="524">
           <RealTime>00:07:05.1470000</RealTime>
         </Time>
+        <Time id="526">
+          <RealTime>00:07:03.7890000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -2278,6 +2289,9 @@
         <Time id="524">
           <RealTime>00:01:51.8020000</RealTime>
         </Time>
+        <Time id="526">
+          <RealTime>00:01:55.0500000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -2587,6 +2601,7 @@
         <Time id="524">
           <RealTime>00:07:19.2520000</RealTime>
         </Time>
+        <Time id="526" />
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -2883,6 +2898,9 @@
         <Time id="524">
           <RealTime>00:02:11.9700000</RealTime>
         </Time>
+        <Time id="526">
+          <RealTime>00:09:41.0760000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3133,6 +3151,9 @@
         </Time>
         <Time id="524">
           <RealTime>00:02:33.2870000</RealTime>
+        </Time>
+        <Time id="526">
+          <RealTime>00:04:25.6280000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -3397,6 +3418,9 @@
         <Time id="524">
           <RealTime>00:04:49.6640000</RealTime>
         </Time>
+        <Time id="526">
+          <RealTime>00:04:52.7120000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3409,7 +3433,7 @@
         <SplitTime name="World Record by Marco" />
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:04:20.2560000</RealTime>
+        <RealTime>00:04:20</RealTime>
         <GameTime>00:04:08.4151042</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -3668,6 +3692,9 @@
         <Time id="524">
           <RealTime>00:04:21.3740000</RealTime>
         </Time>
+        <Time id="526">
+          <RealTime>00:04:20</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3855,6 +3882,9 @@
           <RealTime>00:06:18.8120000</RealTime>
         </Time>
         <Time id="524" />
+        <Time id="526">
+          <RealTime>00:06:43.1720000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -4011,6 +4041,9 @@
         </Time>
         <Time id="524">
           <RealTime>00:18:13.2560000</RealTime>
+        </Time>
+        <Time id="526">
+          <RealTime>00:09:37.7260000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -4177,6 +4210,9 @@
         <Time id="524">
           <RealTime>00:07:09.6960000</RealTime>
         </Time>
+        <Time id="526">
+          <RealTime>00:06:48.6560000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -4189,7 +4225,7 @@
         <SplitTime name="World Record by Marco" />
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:11:24.1160000</RealTime>
+        <RealTime>00:11:21.3370000</RealTime>
         <GameTime>00:12:04.9042311</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -4331,6 +4367,9 @@
         </Time>
         <Time id="524">
           <RealTime>00:11:41.9260000</RealTime>
+        </Time>
+        <Time id="526">
+          <RealTime>00:11:21.3370000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -4479,6 +4518,9 @@
         </Time>
         <Time id="524">
           <RealTime>00:06:04.4540000</RealTime>
+        </Time>
+        <Time id="526">
+          <RealTime>00:07:54.0480000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
