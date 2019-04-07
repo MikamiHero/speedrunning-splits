@@ -103,13 +103,6 @@
         <Columns>
           <Settings>
             <Version>1.5</Version>
-            <Name>PB</Name>
-            <Type>SplitTime</Type>
-            <Comparison>Current Comparison</Comparison>
-            <TimingMethod>Current Timing Method</TimingMethod>
-          </Settings>
-          <Settings>
-            <Version>1.5</Version>
             <Name>PB +/-</Name>
             <Type>Delta</Type>
             <Comparison>Current Comparison</Comparison>
@@ -117,9 +110,16 @@
           </Settings>
           <Settings>
             <Version>1.5</Version>
+            <Name>PB</Name>
+            <Type>SplitTime</Type>
+            <Comparison>Current Comparison</Comparison>
+            <TimingMethod>Current Timing Method</TimingMethod>
+          </Settings>
+          <Settings>
+            <Version>1.5</Version>
             <Name>Goal</Name>
             <Type>DeltaorSplitTime</Type>
-            <Comparison>1:17-Goal</Comparison>
+            <Comparison>47 FQ NoIMWW</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
         </Columns>
