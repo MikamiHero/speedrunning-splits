@@ -674,7 +674,9 @@
         <SplitTime name="Personal Best">
           <RealTime>00:05:15.5770000</RealTime>
         </SplitTime>
-        <SplitTime name="World Record by Marco" />
+        <SplitTime name="1:17-Goal">
+          <RealTime>00:05:16.4300000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:05:14.7410000</RealTime>
@@ -1207,7 +1209,9 @@
         <SplitTime name="Personal Best">
           <RealTime>00:09:30.9480000</RealTime>
         </SplitTime>
-        <SplitTime name="World Record by Marco" />
+        <SplitTime name="1:17-Goal">
+          <RealTime>00:09:44.9600000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:04:12.0010000</RealTime>
@@ -1640,7 +1644,9 @@
         <SplitTime name="Personal Best">
           <RealTime>00:16:49.1360000</RealTime>
         </SplitTime>
-        <SplitTime name="World Record by Marco" />
+        <SplitTime name="1:17-Goal">
+          <RealTime>00:16:55.2500000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:07:03.7780000</RealTime>
@@ -1973,7 +1979,9 @@
         <SplitTime name="Personal Best">
           <RealTime>00:18:43.4390000</RealTime>
         </SplitTime>
-        <SplitTime name="World Record by Marco" />
+        <SplitTime name="1:17-Goal">
+          <RealTime>00:19:06</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:01:51.6400000</RealTime>
@@ -2301,7 +2309,9 @@
         <SplitTime name="Personal Best">
           <RealTime>00:26:06.7190000</RealTime>
         </SplitTime>
-        <SplitTime name="World Record by Marco" />
+        <SplitTime name="1:17-Goal">
+          <RealTime>00:26:31</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:07:19.2520000</RealTime>
@@ -2611,7 +2621,9 @@
         <SplitTime name="Personal Best">
           <RealTime>00:28:22.7560000</RealTime>
         </SplitTime>
-        <SplitTime name="World Record by Marco" />
+        <SplitTime name="1:17-Goal">
+          <RealTime>00:28:40</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:02:11.9700000</RealTime>
@@ -2910,7 +2922,9 @@
         <SplitTime name="Personal Best">
           <RealTime>00:30:52.8410000</RealTime>
         </SplitTime>
-        <SplitTime name="World Record by Marco" />
+        <SplitTime name="1:17-Goal">
+          <RealTime>00:31:01.0400000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:02:18.5840000</RealTime>
@@ -3164,7 +3178,9 @@
         <SplitTime name="Personal Best">
           <RealTime>00:35:44.4010000</RealTime>
         </SplitTime>
-        <SplitTime name="World Record by Marco" />
+        <SplitTime name="1:17-Goal">
+          <RealTime>00:35:54</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:04:49.6640000</RealTime>
@@ -3430,7 +3446,9 @@
         <SplitTime name="Personal Best">
           <RealTime>00:40:07.2350000</RealTime>
         </SplitTime>
-        <SplitTime name="World Record by Marco" />
+        <SplitTime name="1:17-Goal">
+          <RealTime>00:40:21.1200000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:04:20</RealTime>
@@ -3704,7 +3722,9 @@
         <SplitTime name="Personal Best">
           <RealTime>00:46:50.9740000</RealTime>
         </SplitTime>
-        <SplitTime name="World Record by Marco" />
+        <SplitTime name="1:17-Goal">
+          <RealTime>00:46:08</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:06:18.8120000</RealTime>
@@ -3894,7 +3914,9 @@
         <SplitTime name="Personal Best">
           <RealTime>00:54:47.3160000</RealTime>
         </SplitTime>
-        <SplitTime name="World Record by Marco" />
+        <SplitTime name="1:17-Goal">
+          <RealTime>00:53:36.6100000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:07:56.3420000</RealTime>
@@ -4054,7 +4076,9 @@
         <SplitTime name="Personal Best">
           <RealTime>01:01:46.7400000</RealTime>
         </SplitTime>
-        <SplitTime name="World Record by Marco" />
+        <SplitTime name="1:17-Goal">
+          <RealTime>01:00:18</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:06:46.1570000</RealTime>
@@ -4222,7 +4246,9 @@
         <SplitTime name="Personal Best">
           <RealTime>01:13:10.8560000</RealTime>
         </SplitTime>
-        <SplitTime name="World Record by Marco" />
+        <SplitTime name="1:17-Goal">
+          <RealTime>01:11:52</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:11:21.3370000</RealTime>
@@ -4380,7 +4406,9 @@
         <SplitTime name="Personal Best">
           <RealTime>01:19:23.6220000</RealTime>
         </SplitTime>
-        <SplitTime name="World Record by Marco" />
+        <SplitTime name="1:17-Goal">
+          <RealTime>01:17:57.2300000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:06:00.9040000</RealTime>

@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>763</X>
-  <Y>36</Y>
+  <X>471</X>
+  <Y>113</Y>
   <VerticalWidth>606</VerticalWidth>
   <VerticalHeight>707</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -118,7 +118,7 @@
           <Settings>
             <Version>1.5</Version>
             <Name>Goal</Name>
-            <Type>DeltaorSplitTime</Type>
+            <Type>SplitTime</Type>
             <Comparison>1:17-Goal</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
