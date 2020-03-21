@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon><![CDATA[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]]></GameIcon>
+  <GameName>The Legend of Zelda: Ocarina of Time</GameName>
+  <CategoryName>No ACE</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">Nintendo 64</Platform>
+    <Region>JPN / NTSC</Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>20</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="02/26/2020 01:06:21" isStartedSynced="True" ended="02/26/2020 01:19:55" isEndedSynced="True" />
+    <Attempt id="2" started="02/26/2020 01:20:03" isStartedSynced="True" ended="02/26/2020 01:29:30" isEndedSynced="True">
+      <RealTime>00:09:26.9290000</RealTime>
+    </Attempt>
+    <Attempt id="3" started="02/26/2020 16:52:06" isStartedSynced="True" ended="02/26/2020 16:52:27" isEndedSynced="True" />
+    <Attempt id="4" started="02/26/2020 16:53:03" isStartedSynced="True" ended="02/26/2020 16:57:41" isEndedSynced="True" />
+    <Attempt id="5" started="02/26/2020 18:53:35" isStartedSynced="True" ended="02/26/2020 18:58:50" isEndedSynced="True" />
+    <Attempt id="6" started="02/26/2020 18:59:03" isStartedSynced="True" ended="02/26/2020 19:05:38" isEndedSynced="True" />
+    <Attempt id="7" started="02/26/2020 19:05:50" isStartedSynced="True" ended="02/26/2020 19:13:06" isEndedSynced="True" />
+    <Attempt id="8" started="02/26/2020 19:13:18" isStartedSynced="True" ended="02/26/2020 19:19:23" isEndedSynced="True">
+      <RealTime>00:09:02.4210000</RealTime>
+    </Attempt>
+    <Attempt id="9" started="02/26/2020 19:19:50" isStartedSynced="True" ended="02/26/2020 19:25:57" isEndedSynced="True" />
+    <Attempt id="10" started="02/26/2020 19:26:07" isStartedSynced="True" ended="02/26/2020 19:31:01" isEndedSynced="True" />
+    <Attempt id="11" started="02/26/2020 19:31:16" isStartedSynced="True" ended="02/26/2020 19:37:30" isEndedSynced="True" />
+    <Attempt id="12" started="02/26/2020 19:37:42" isStartedSynced="True" ended="02/26/2020 19:38:02" isEndedSynced="True" />
+    <Attempt id="13" started="02/26/2020 19:38:18" isStartedSynced="True" ended="02/26/2020 19:43:16" isEndedSynced="True" />
+    <Attempt id="14" started="02/26/2020 19:43:30" isStartedSynced="True" ended="02/26/2020 19:47:42" isEndedSynced="True" />
+    <Attempt id="15" started="02/26/2020 19:47:57" isStartedSynced="True" ended="02/26/2020 19:53:21" isEndedSynced="True" />
+    <Attempt id="16" started="02/26/2020 19:53:40" isStartedSynced="True" ended="02/26/2020 20:00:38" isEndedSynced="True" />
+    <Attempt id="17" started="02/26/2020 20:01:00" isStartedSynced="True" ended="02/26/2020 20:07:24" isEndedSynced="True" />
+    <Attempt id="18" started="02/26/2020 20:07:40" isStartedSynced="True" ended="02/26/2020 20:12:52" isEndedSynced="True" />
+    <Attempt id="19" started="02/26/2020 20:13:04" isStartedSynced="True" ended="02/26/2020 20:17:04" isEndedSynced="True" />
+    <Attempt id="20" started="02/26/2020 20:17:23" isStartedSynced="True" ended="02/26/2020 20:23:03" isEndedSynced="True" />
+    <Attempt id="21" started="02/26/2020 20:23:16" isStartedSynced="True" ended="02/26/2020 20:29:27" isEndedSynced="True" />
+    <Attempt id="22" started="02/26/2020 20:29:40" isStartedSynced="True" ended="02/26/2020 20:33:20" isEndedSynced="True" />
+    <Attempt id="23" started="02/26/2020 21:34:12" isStartedSynced="True" ended="02/26/2020 21:38:42" isEndedSynced="True" />
+    <Attempt id="24" started="02/26/2020 21:39:03" isStartedSynced="True" ended="02/26/2020 21:44:33" isEndedSynced="True" />
+    <Attempt id="25" started="02/26/2020 21:44:58" isStartedSynced="True" ended="02/26/2020 21:50:51" isEndedSynced="True" />
+    <Attempt id="26" started="02/26/2020 21:51:44" isStartedSynced="True" ended="02/26/2020 21:57:24" isEndedSynced="True">
+      <RealTime>00:08:38.1730000</RealTime>
+    </Attempt>
+    <Attempt id="27" started="02/26/2020 22:02:55" isStartedSynced="True" ended="02/26/2020 22:11:48" isEndedSynced="True" />
+    <Attempt id="28" started="02/26/2020 22:11:58" isStartedSynced="True" ended="02/26/2020 22:21:10" isEndedSynced="True" />
+    <Attempt id="29" started="02/26/2020 22:21:22" isStartedSynced="True" ended="02/26/2020 22:29:54" isEndedSynced="True">
+      <RealTime>00:08:32.1560000</RealTime>
+    </Attempt>
+    <Attempt id="30" started="02/26/2020 22:33:18" isStartedSynced="True" ended="02/26/2020 22:39:59" isEndedSynced="True" />
+    <Attempt id="31" started="02/26/2020 22:40:15" isStartedSynced="True" ended="02/26/2020 22:48:57" isEndedSynced="True" />
+    <Attempt id="32" started="02/26/2020 22:49:06" isStartedSynced="True" ended="02/26/2020 22:58:01" isEndedSynced="True">
+      <RealTime>00:08:55.3070000</RealTime>
+    </Attempt>
+    <Attempt id="33" started="02/26/2020 22:58:46" isStartedSynced="True" ended="02/26/2020 23:07:11" isEndedSynced="True">
+      <RealTime>00:08:25.0260000</RealTime>
+    </Attempt>
+    <Attempt id="34" started="02/26/2020 23:12:25" isStartedSynced="True" ended="02/26/2020 23:17:34" isEndedSynced="True" />
+    <Attempt id="35" started="02/26/2020 23:17:48" isStartedSynced="True" ended="02/26/2020 23:26:22" isEndedSynced="True" />
+    <Attempt id="36" started="02/26/2020 23:26:34" isStartedSynced="True" ended="02/26/2020 23:33:06" isEndedSynced="True" />
+    <Attempt id="37" started="02/26/2020 23:33:22" isStartedSynced="True" ended="02/26/2020 23:40:00" isEndedSynced="True" />
+    <Attempt id="38" started="02/26/2020 23:40:14" isStartedSynced="True" ended="02/26/2020 23:45:38" isEndedSynced="True" />
+    <Attempt id="39" started="02/26/2020 23:46:07" isStartedSynced="True" ended="02/26/2020 23:51:05" isEndedSynced="True" />
+    <Attempt id="40" started="02/26/2020 23:51:59" isStartedSynced="True" ended="02/27/2020 00:00:46" isEndedSynced="True" />
+    <Attempt id="41" started="03/02/2020 09:40:25" isStartedSynced="True" ended="03/02/2020 09:54:58" isEndedSynced="True" />
+    <Attempt id="42" started="03/02/2020 09:55:19" isStartedSynced="True" ended="03/02/2020 10:02:42" isEndedSynced="True" />
+    <Attempt id="43" started="03/02/2020 10:03:15" isStartedSynced="True" ended="03/02/2020 10:12:13" isEndedSynced="True" />
+    <Attempt id="44" started="03/02/2020 10:14:17" isStartedSynced="True" ended="03/02/2020 10:26:30" isEndedSynced="True" />
+    <Attempt id="45" started="03/02/2020 10:26:48" isStartedSynced="True" ended="03/02/2020 10:38:42" isEndedSynced="True" />
+    <Attempt id="46" started="03/02/2020 10:38:54" isStartedSynced="True" ended="03/02/2020 10:47:24" isEndedSynced="True" />
+    <Attempt id="47" started="03/02/2020 10:47:33" isStartedSynced="True" ended="03/02/2020 10:59:30" isEndedSynced="True" />
+    <Attempt id="48" started="03/02/2020 11:13:12" isStartedSynced="True" ended="03/02/2020 11:22:14" isEndedSynced="True" />
+    <Attempt id="49" started="03/02/2020 11:22:32" isStartedSynced="True" ended="03/02/2020 11:31:18" isEndedSynced="True" />
+    <Attempt id="50" started="03/02/2020 11:31:45" isStartedSynced="True" ended="03/02/2020 11:40:14" isEndedSynced="True" />
+    <Attempt id="51" started="03/02/2020 11:40:23" isStartedSynced="True" ended="03/02/2020 11:52:03" isEndedSynced="True" />
+    <Attempt id="52" started="03/02/2020 11:52:28" isStartedSynced="True" ended="03/02/2020 12:00:34" isEndedSynced="True" />
+    <Attempt id="53" started="03/02/2020 12:00:45" isStartedSynced="True" ended="03/02/2020 12:12:32" isEndedSynced="True" />
+    <Attempt id="54" started="03/02/2020 12:13:08" isStartedSynced="True" ended="03/02/2020 12:25:27" isEndedSynced="True" />
+    <Attempt id="55" started="03/02/2020 12:25:45" isStartedSynced="True" ended="03/02/2020 12:38:49" isEndedSynced="True" />
+    <Attempt id="56" started="03/02/2020 12:39:20" isStartedSynced="True" ended="03/02/2020 12:47:50" isEndedSynced="True" />
+    <Attempt id="57" started="03/02/2020 12:48:09" isStartedSynced="True" ended="03/02/2020 13:00:45" isEndedSynced="True" />
+    <Attempt id="58" started="03/02/2020 13:19:20" isStartedSynced="True" ended="03/02/2020 13:26:32" isEndedSynced="True" />
+    <Attempt id="59" started="03/02/2020 13:26:47" isStartedSynced="True" ended="03/02/2020 13:34:19" isEndedSynced="True" />
+    <Attempt id="60" started="03/02/2020 13:34:35" isStartedSynced="True" ended="03/02/2020 13:43:41" isEndedSynced="True" />
+    <Attempt id="61" started="03/02/2020 14:19:41" isStartedSynced="True" ended="03/02/2020 14:32:00" isEndedSynced="True" />
+    <Attempt id="62" started="03/02/2020 14:33:08" isStartedSynced="True" ended="03/02/2020 14:45:14" isEndedSynced="True" />
+    <Attempt id="63" started="03/02/2020 22:37:25" isStartedSynced="True" ended="03/02/2020 22:47:11" isEndedSynced="True" />
+    <Attempt id="64" started="03/02/2020 22:48:09" isStartedSynced="True" ended="03/02/2020 22:59:26" isEndedSynced="True">
+      <RealTime>00:11:16.9240000</RealTime>
+    </Attempt>
+    <Attempt id="65" started="03/02/2020 23:04:28" isStartedSynced="True" ended="03/02/2020 23:08:12" isEndedSynced="True" />
+    <Attempt id="66" started="03/02/2020 23:08:25" isStartedSynced="True" ended="03/02/2020 23:19:01" isEndedSynced="True">
+      <RealTime>00:10:35.3580000</RealTime>
+    </Attempt>
+    <Attempt id="67" started="03/08/2020 13:01:23" isStartedSynced="True" ended="03/08/2020 13:01:54" isEndedSynced="True" />
+    <Attempt id="68" started="03/08/2020 13:02:28" isStartedSynced="True" ended="03/08/2020 13:11:55" isEndedSynced="True" />
+    <Attempt id="69" started="03/08/2020 13:12:11" isStartedSynced="True" ended="03/08/2020 13:22:56" isEndedSynced="True" />
+    <Attempt id="70" started="03/08/2020 13:23:48" isStartedSynced="True" ended="03/08/2020 13:39:44" isEndedSynced="True" />
+    <Attempt id="71" started="03/09/2020 08:44:55" isStartedSynced="True" ended="03/09/2020 08:59:54" isEndedSynced="True" />
+    <Attempt id="72" started="03/09/2020 09:00:26" isStartedSynced="True" ended="03/09/2020 09:11:02" isEndedSynced="True" />
+    <Attempt id="73" started="03/09/2020 09:11:34" isStartedSynced="True" ended="03/09/2020 09:16:02" isEndedSynced="True" />
+    <Attempt id="74" started="03/09/2020 09:16:19" isStartedSynced="True" ended="03/09/2020 09:23:11" isEndedSynced="True" />
+    <Attempt id="75" started="03/09/2020 09:23:29" isStartedSynced="True" ended="03/09/2020 09:30:14" isEndedSynced="True" />
+    <Attempt id="76" started="03/09/2020 09:30:56" isStartedSynced="True" ended="03/09/2020 09:37:47" isEndedSynced="True" />
+    <Attempt id="77" started="03/09/2020 09:39:20" isStartedSynced="True" ended="03/09/2020 09:48:15" isEndedSynced="True" />
+    <Attempt id="78" started="03/09/2020 09:48:33" isStartedSynced="True" ended="03/09/2020 09:56:58" isEndedSynced="True" />
+    <Attempt id="79" started="03/09/2020 09:57:15" isStartedSynced="True" ended="03/09/2020 10:17:08" isEndedSynced="True">
+      <RealTime>00:19:53.0380000</RealTime>
+    </Attempt>
+    <Attempt id="80" started="03/09/2020 10:18:00" isStartedSynced="True" ended="03/09/2020 10:26:21" isEndedSynced="True" />
+    <Attempt id="81" started="03/09/2020 10:26:37" isStartedSynced="True" ended="03/09/2020 10:30:56" isEndedSynced="True" />
+    <Attempt id="82" started="03/09/2020 10:31:15" isStartedSynced="True" ended="03/09/2020 10:41:50" isEndedSynced="True" />
+    <Attempt id="83" started="03/09/2020 10:42:18" isStartedSynced="True" ended="03/09/2020 10:50:46" isEndedSynced="True" />
+    <Attempt id="84" started="03/09/2020 10:51:08" isStartedSynced="True" ended="03/09/2020 10:59:27" isEndedSynced="True" />
+    <Attempt id="85" started="03/09/2020 10:59:47" isStartedSynced="True" ended="03/09/2020 11:16:28" isEndedSynced="True" />
+    <Attempt id="86" started="03/09/2020 11:16:57" isStartedSynced="True" ended="03/09/2020 11:25:12" isEndedSynced="True" />
+    <Attempt id="87" started="03/09/2020 11:25:28" isStartedSynced="True" ended="03/09/2020 11:33:36" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Exit Shop</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAANBAAAAKJUE5HDQoaCgAAAA1JSERSAAAATAAAAEwIBgAAAMeXUSsAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA69AAAOvQFH+5CtAAAAB3RJTUUH4AwdFw4FSpO/lQAAD8NJREFUeF7tmwlzVFd2x/0VMlp7Uav31taLlu6WQCC0IQnt+wYSkpBYbYwQGATYCAmQ2W28xMhssR1qyEym4jiZeKqSWWqWGo8mVZOMx2aZ5BvMV/jnnHvf6X6SmUoqNcaS3Kfq1L3vvgdIP//P/577uv1CKlKRilSkIhWpSEUqUpGKVPzlY3t5wWLXtiCMy1T8bzFcmYNXOvNxtDOE8aYQmreEUvD+XHTG7RiutGGmzY9TvSGcpjzRXYRDLYUYrA2itiLkNh5NRWvMgf6KbAxusmC62YOTBEpB6wsrcKd6g5jpLMJUUxE6q77lJdsYdS0zrP4KCwZoPNzoxAkqSwbG4CRnexhiUK3PdIWxuzGEpsrQn4y/5tsRtVGfu7fcgt54FvrKCVp5Fg5ud2Cm1UuAgioZ1omuwoTqJM+Q+k50B/FiaxH6a4q+HarriVsUKElW2YHtTsy0UFkSJAEmySUqypN7p/tCan68K4jJHRt4k+gst1MJanVJMrR9dQ4cbXbheHsgAUrUxrBWQ5S1s4MR3JgoQ8vW8MaDxibfR+UnyhJYnFM1OZje4cSxVg9OEQgpR4HDo0CTax6vjZfi7kvlGGmMbCxg28uciwyGy49TQPGcwe2ptiuFcb7SkZcAxuUoSjMn31scKcH7h2K4R8CO9pZsHGC1ZWTy8aSqOHtimYlrnk8YwFhlbP4MjMGwiiTNKpsfiuDWgThuH4rizosxLI7FNg6w7nJrQlkCiEdRGc/Ht2lgMy1ulQxMQAkkAXamL4i398ZUKd4mhTG0t/bGNwYw7uSlBHkc2GRdAUsg7q5iYBrW9A4XjlHnL4AEmJTntfESglVBymKFMTgaXyxHd80697GWOJt8UkUCTsoxcU33dlVacaTJmfCx4+0+zJqAcbLqLo4UE6jyhLoYGidf720rXr/AGqPu5X468ggwgcPgBJis99I4vNmCww26teDk3VI6f+VfBOzsYAi3DsaVyQssBqUzjtODpesXGHfyCSCmEjSDkuRrPk++JMCoLDln2khlhrq4Ub05WYa7hwVQsiR5vH+4Alcn1qnx95DJS3NqBmQe5R6PrLABAnakwYnZRhderXdirs6Fs5RzbQV4lQ7g18bYtzQsKUNt+Nr877+8Ce/RrtmwOfTQ+DHWR7DJD25O7ooCSNJ8LaU5FrNiJmTFnZADH+fn4F/ycvEjyk8DDvxz2I9/rQrhZ/1leLBfgzIDk5GhcU+2s2EdGX9rPJeAJMHwjiiAlJIoEy0Fre8qy8Kx/Gws5mTiTWsmPnHa8TOPAz+h/GG+Ex+W5GKpxofvjZbh4f5y3DuQ9K17VIICTNbuU7lO96wTH2uMuZf7DCiiIEmBxXMGyND2hrNxwZWN65YMXM9Ko0zHD1x2/EPIiTfLHaosT7S6cXWkAEsHy3CHS5HSXJKcDE7WGNj50ej6AMaK6X8GHHPyGnvbgcJMXMnJwhuWTNwgYDeyM3Deno75aA5ONblxhLr9oy0uXBzMw3tTQSzt51YiCYlT/EuS1+4RsDen1gGwbvW6JqksASYlKdcM9UAoG5dtBIogvWHNwnUaz7gzMVqciUk6gEtbcbbXj3f3BPHeZBGW9kYSkFhNoigBJev3X66g41IUHdvW8OuezniOgmXurczQZM492XhpNl7P1cpiUDfIt2a9mdgZ414sCxPG8ehUpw9vjRcRrCBukcJ4vHMw+pVyXJncm8XJ+OPYt1Yb2JYYm7xWkBlQApJRhmoeyyI4GcrcWVlv0DjnpYY1Ss/Tc/zsGAE7xr61Kx9LUyGlLpWqLEtwm4AxkKWDMWohYnhnXwxvUQne2FOmXvNc2l2MKzQu7CrGcP0a+wygMeZZFjhf6dxXAeSjz3gki0qRylD5ViYuk4dNFBNMY1flHN1qxUK/H+9MFFIW4eZYAd4cLcCtwXzc7iXz31mMN0ZKcGmsFK8TnNd3l1DyvBSLo8XJHIng/K4w9retoZeKPfHkjiegnlWWSmX8IUcR7YjsWwSLFfaKn4HSn6G/pyuahQ7K0a02nO/3kdkHcGEoD5d7Avj7SheWQy78PujF70oL8PPKIL7bFsGl4fAKSAyPx4sES5Kvj3avgb6sO77SzMXcFRwDFGd3NINGVlg2pgnQxcw0XCBoZ6mNGM5PR3NJJlpKsrCDDL+1NAt7yPRf6/HiXB9BG8jHJ1t9eOR34pHPiccBFx7lefC0OIjH0TA+rQ/jGinuIsMyoJnhcTI0VuLpgQjaqfk1fvznG+0xm2ofBAyrSr8ctKCbfIrV0knZWpKB5kgaZTp2UO5zpeM09VqnCdhxazq6CtPRRKAYVguBG6LTwd46BwHzYX4ggHfa/PjPoAeP/S6dDMyXiz9GivC0NIwnpSF80hDGpZGkqszAdNlq1TG0+Z0RDNU/Z2jNUQcBIuVQdpRlUhpgikktxTxqAJyN4XSVTZEMNITSMJn7HZwihXEes6QpYHyf/wyfJcerczBFwM50k8IG/Pherd+A5MQf8lz4x61e/KDKg+VoHp6UBPGkuAh/iAZxt4tgrVKVWWUCUUMtxr7W5+hrrAQGs4MgaDBcTgTEAMPJEASavk5TududhpPpf4WTGd/BCVLaQD7dI+Ux9BHyLt4hJ2sdmO10Y55K8tPNXjzmUqSS/HXEjcVOL+bI3252BPCbTUE8LQnhv0hpP6kvwZVRAmPAEWCiMLnWwPR8uvs5QdtOO10T/ZKiHlEQj6winjOoZsOXEhAp+/PSMZtNaahskkq0lf4DjGy1Y4LUxcAmyMNmOz1Y7M/Dj8t9eBpw4ylB+3Hcg/len/K2Ocq/ayrCY0NlvysP4a0hw8tWQROVrb5eHI0oX2vd+jWXaE3EscxGLSAEjswVHENh8owCS2N7KBNHbGmYzSBgZPonqMWYjFowWmVV5aiBOXCSlLTQ58edBi8+pjL8YYUbH9Z6MNfrxXx/gFTmx632AnxZSl5GKvsiFsZSDwEhEGbfMgNavaYBRnBuOIKBuq8R2uawxy0gJEVNkrxmvhYVsjLHvOkES5v/NTpDXvVnY6rShnFSFvdgu6tsON7mVko6S4A4zxGgeQLIwM7R+BqNf73Diy8iBWT+IXxJwG5T68AKYyBmNZkhmecXqEeT5y5QkzvV8jW2Ho3UbPIvby5BAaWvk2qT8uVn2a9YZYdz0rFIvdhdWxY+sGfjUqEVk7RDstJUp9/mUcDMycqSOUN8WE3+VujHH0lhn5dH8DaV1yLthAKFk4EwHFadrIm6GJg8w3mZnjnQ/jUdp2rC1gQISYFlXjODlGcawmkYKEjHTTpPfkDAPsyxKGistEMVpDQqzekWbfpmYLocSWVk+le6/fhVKfVjBT78N5n+L6ojuErdv6hIYAggSbmWezp1aR7vCaO+Ijhl/Ip/2dgcdk2Jb/Hux4oSxZmVxinQkpkB/mrTMerl3vfY8CHBYmB/67BhyWPFmYgVx7fnKmPnUlSK6iH/4mtqNRZ7/PinSi81sLo3e1RciAcd2vCTJZYsN0kGJcqSe3J9qP057JjNpRYFi5XDm4AoSFJUJnNuQ5rDGarjZ5/inK6w422fVSuNoHH+TU42HuTb8X3qt95t8uJKJ3X8XV5c6vDg/UYv/i3qxpcB6vxVM+vEjzYH6KDOwJIwngWLy3KF8igXdoYx2vCcDuj1pAStppWgzKlA0TOd1KBO5lIP5szEUQK9p8qO3eRVowRtf6UdF8N23HVa8BGV50cOKz7Jtanj0OcFbvw26MJndI5cDlLzStdKVXSPx5+XunGlw0cAtFcxKB7NamI45rnAmhsuRnf1c3ybsTXimjKrSkrOvMYGP+bLwFE6Bs3RrniHgNzPteBKvgUz5TkK3Gi1XRn9yzErrhbYCBwBc+XgEfVfDOWJ0ek/YUXR2hM6S7KyPgu7cLOVTwQBnB8qXAFMIJ3fGVpxzfPL46U42RtGw6bC5//JEnf54mVmcDxyuQ5RJ3+UjkCnqbN/25qp1PORw6JK7x6BuR7IxslSKw6Sysao058ggIfLbbgRseOXpKovCBYfjTQoAsgQCd5npLZ3m5MeNz+Ql1SPSV0CSaDxeOSbfHNRH7EQnFVelQBGa+RZfF48TmDueexUcuRX7FXkU8qvCOIHBPB9MvsbeRYsBMn0S2w4V2bDx+Vu/L6AFaZhsWdx1//bsBvvNFGfxr0ZN7GqNyOf26XVxLnayzSwEkw1f8PvxqrCuQ81MN2PmRUm2UYH9NEtVrxMyrlUYMU9t412RFIaweOWguEp7+K5XbcY36W1/1AlSMAI1tN8XYa/CrGy6DzJOyYry+jNGNr5oQIFh83d3HdxfiNvKf5caEBaYeJhsnu2lmZi1xYqNTrusMmPU9kxuMUiK5bcBIzBESRVqgoel6wVD2j+7x6HgqQURsB+GvXgRotHd/7U7XOKwnSPFlBvWaX8WF2XxkpwZrAYrVvW0BeH68PJw7iAY1/jVzb8gS63D+OGsTO03TyntUOb7arnuu634A7Do51RKY4U9oDALROwzwO5+E3Eje/X+PB6F/VjhpoWyLPmjIM4N7M8MsALO4MKloYWwQw1o8aPuXaiOpzzpyYFa6Xx95Tz+3ndb2lo+nCtwPHaNk672ilfJHivRG04W2zDQsiGC2T6723Oxa1GDy5TH6ahJFWlAWlIC7RLyv2FwQLVMvD7/f2ta6QEV8cmOozzGZE7eFFZRzQbI3SQFkBjDIcg8ZzBCbwERFLdKD0zUetIrM20udQxKOlXDGtlGUryfRnPDQWpGV2jsCQajZeI2reyMFKloYi6NDT96obLk+/puYaj31LoVzyyxl91WjCZelJlyTIUiHruwyyVbceW/LUNi6MmbDPURefETawsDepZwGQucPh+Ephe57UjzS51AE8ox5RaZSZg9Mw0NbF1sbw640da21FJh/HGULp6zy+/vAaVBMajqMec/Ly8B+Nreealplyj19LvwURJPD9rfKrE/sWw9tEZ0/hR1k/wq2YzLEn+5c1zuWaYeq6B6XvJZw7U21ULoaAoVWlwkuq6L4DRusD6g8VRW+px99LONrpNe5OkhvLVEtTrWnXynNznPLA9VwEzA5KSPNfnxeluH3qq1ims1dEQ9z7srXQmzJ/7rmcpj5M/9JA1Ace5r54/nyRYlPw+TGCxufO3qxsrAsvGP7exoi7qreuqyMUugqfBkLkbakqW4ldzb10OznTRmZHMXatMQ3upxb8xVPV/iWoq284KJ4a36LaCP1rjndGsOMnJGjteNcydPwDhcU/DBinB/290VLgIHp0zVTkmfY5zsjYHr5JPcWvxWo8fg9Xfcliro73CjaEttGkY8Ph/1OKvDJzqDqB9PTSj32S0xF0Ez4GDTT7UxfPXRzOailSkIhWpSEUqUpGKVKy9eOGF/wFBs9XCdercrgAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:05:49.8540000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:49.8540000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="68">
+          <RealTime>00:05:54.7560000</RealTime>
+        </Time>
+        <Time id="70">
+          <RealTime>00:05:58.2810000</RealTime>
+        </Time>
+        <Time id="69">
+          <RealTime>00:05:55.6820000</RealTime>
+        </Time>
+        <Time id="71">
+          <RealTime>00:06:02.4270000</RealTime>
+        </Time>
+        <Time id="72">
+          <RealTime>00:06:04.4450000</RealTime>
+        </Time>
+        <Time id="74">
+          <RealTime>00:06:09.2620000</RealTime>
+        </Time>
+        <Time id="75">
+          <RealTime>00:06:07.2170000</RealTime>
+        </Time>
+        <Time id="76">
+          <RealTime>00:05:55.1070000</RealTime>
+        </Time>
+        <Time id="77">
+          <RealTime>00:06:06.4130000</RealTime>
+        </Time>
+        <Time id="78">
+          <RealTime>00:05:59.9840000</RealTime>
+        </Time>
+        <Time id="79">
+          <RealTime>00:05:49.8540000</RealTime>
+        </Time>
+        <Time id="80">
+          <RealTime>00:06:00.0890000</RealTime>
+        </Time>
+        <Time id="82">
+          <RealTime>00:05:57.2950000</RealTime>
+        </Time>
+        <Time id="83">
+          <RealTime>00:05:59.1220000</RealTime>
+        </Time>
+        <Time id="84">
+          <RealTime>00:06:07.2340000</RealTime>
+        </Time>
+        <Time id="85">
+          <RealTime>00:06:01.1370000</RealTime>
+        </Time>
+        <Time id="86">
+          <RealTime>00:06:01.7120000</RealTime>
+        </Time>
+        <Time id="87">
+          <RealTime>00:06:02.3740000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Enter Crawlspace</Name>
+      <Icon><![CDATA[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]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:07:44.8690000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:28.5760000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="70">
+          <RealTime>00:01:59.9620000</RealTime>
+        </Time>
+        <Time id="69">
+          <RealTime>00:01:51.8190000</RealTime>
+        </Time>
+        <Time id="68">
+          <RealTime>00:02:36.0340000</RealTime>
+        </Time>
+        <Time id="71">
+          <RealTime>00:01:48.9990000</RealTime>
+        </Time>
+        <Time id="72">
+          <RealTime>00:01:47.8590000</RealTime>
+        </Time>
+        <Time id="77">
+          <RealTime>00:01:57.7480000</RealTime>
+        </Time>
+        <Time id="78">
+          <RealTime>00:01:50.7370000</RealTime>
+        </Time>
+        <Time id="79">
+          <RealTime>00:01:55.0150000</RealTime>
+        </Time>
+        <Time id="80">
+          <RealTime>00:01:42.3390000</RealTime>
+        </Time>
+        <Time id="82">
+          <RealTime>00:02:17.1640000</RealTime>
+        </Time>
+        <Time id="83">
+          <RealTime>00:01:55.9670000</RealTime>
+        </Time>
+        <Time id="84">
+          <RealTime>00:01:38.6750000</RealTime>
+        </Time>
+        <Time id="85">
+          <RealTime>00:01:35.7030000</RealTime>
+        </Time>
+        <Time id="86">
+          <RealTime>00:01:42.9240000</RealTime>
+        </Time>
+        <Time id="87">
+          <RealTime>00:01:28.5760000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Enter Deku Tree</Name>
+      <Icon><![CDATA[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]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:10:10.6370000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:20.2800000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="70">
+          <RealTime>00:02:22.2260000</RealTime>
+        </Time>
+        <Time id="71">
+          <RealTime>00:02:28.3310000</RealTime>
+        </Time>
+        <Time id="79">
+          <RealTime>00:02:25.7680000</RealTime>
+        </Time>
+        <Time id="85">
+          <RealTime>00:02:20.2800000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Gabondoor</Name>
+      <Icon><![CDATA[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]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:14:04.2550000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:41.6800000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="79">
+          <RealTime>00:03:53.6180000</RealTime>
+        </Time>
+        <Time id="85">
+          <RealTime>00:03:41.6800000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Collapse Skip</Name>
+      <Icon><![CDATA[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]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:16:08.1650000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:03.9100000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="79">
+          <RealTime>00:02:03.9100000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Gabon</Name>
+      <Icon><![CDATA[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]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:19:53.0380000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:44.8730000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="79">
+          <RealTime>00:03:44.8730000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

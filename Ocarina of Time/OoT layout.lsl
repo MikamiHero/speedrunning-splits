@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>862</X>
-  <Y>430</Y>
+  <X>829</X>
+  <Y>427</Y>
   <VerticalWidth>523</VerticalWidth>
   <VerticalHeight>603</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -119,7 +119,7 @@
             <Version>1.5</Version>
             <Name>Goal</Name>
             <Type>DeltaorSplitTime</Type>
-            <Comparison>3452MQCD</Comparison>
+            <Comparison>Best Segments</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
         </Columns>
