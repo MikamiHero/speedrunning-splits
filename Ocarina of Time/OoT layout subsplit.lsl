@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>-1268</X>
-  <Y>310</Y>
-  <VerticalWidth>558</VerticalWidth>
-  <VerticalHeight>612</VerticalHeight>
+  <X>616</X>
+  <Y>178</Y>
+  <VerticalWidth>523</VerticalWidth>
+  <VerticalHeight>653</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -63,48 +63,75 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.Splits.dll</Path>
+      <Path>LiveSplit.Subsplits.dll</Path>
       <Settings>
-        <Version>1.6</Version>
-        <CurrentSplitTopColor>E067E710</CurrentSplitTopColor>
-        <CurrentSplitBottomColor>EA0F2208</CurrentSplitBottomColor>
-        <VisualSplitCount>6</VisualSplitCount>
-        <SplitPreviewCount>0</SplitPreviewCount>
+        <Version>1.7</Version>
+        <CurrentSplitTopColor>FF3373F4</CurrentSplitTopColor>
+        <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
+        <VisualSplitCount>8</VisualSplitCount>
+        <SplitPreviewCount>1</SplitPreviewCount>
+        <MinimumMajorSplits>3</MinimumMajorSplits>
         <DisplayIcons>True</DisplayIcons>
         <ShowThinSeparators>False</ShowThinSeparators>
         <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
         <SplitWidth>20</SplitWidth>
         <SplitTimesAccuracy>Seconds</SplitTimesAccuracy>
-        <AutomaticAbbreviations>False</AutomaticAbbreviations>
-        <BeforeNamesColor>FF748FA3</BeforeNamesColor>
+        <BeforeNamesColor>FFFFFFFF</BeforeNamesColor>
         <CurrentNamesColor>FFFFFFFF</CurrentNamesColor>
         <AfterNamesColor>FFFFFFFF</AfterNamesColor>
-        <OverrideTextColor>True</OverrideTextColor>
-        <BeforeTimesColor>FF748FA3</BeforeTimesColor>
+        <OverrideTextColor>False</OverrideTextColor>
+        <BeforeTimesColor>FFFFFFFF</BeforeTimesColor>
         <CurrentTimesColor>FFFFFFFF</CurrentTimesColor>
         <AfterTimesColor>FFFFFFFF</AfterTimesColor>
-        <OverrideTimesColor>True</OverrideTimesColor>
-        <ShowBlankSplits>True</ShowBlankSplits>
+        <OverrideTimesColor>False</OverrideTimesColor>
         <LockLastSplit>True</LockLastSplit>
-        <IconSize>25</IconSize>
+        <IconSize>24</IconSize>
         <IconShadows>True</IconShadows>
-        <SplitHeight>3.6</SplitHeight>
+        <SplitHeight>6</SplitHeight>
         <CurrentSplitGradient>Vertical</CurrentSplitGradient>
-        <BackgroundColor>00000000</BackgroundColor>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
-        <BackgroundGradient>Plain</BackgroundGradient>
-        <SeparatorLastSplit>False</SeparatorLastSplit>
-        <DeltasAccuracy>Hundredths</DeltasAccuracy>
-        <DropDecimals>False</DropDecimals>
+        <BackgroundGradient>Alternating</BackgroundGradient>
+        <SeparatorLastSplit>True</SeparatorLastSplit>
+        <DeltasAccuracy>Tenths</DeltasAccuracy>
+        <DropDecimals>True</DropDecimals>
         <OverrideDeltasColor>False</OverrideDeltasColor>
         <DeltasColor>FFFFFFFF</DeltasColor>
+        <HeaderComparison>Current Comparison</HeaderComparison>
+        <HeaderTimingMethod>Current Timing Method</HeaderTimingMethod>
         <Display2Rows>False</Display2Rows>
-        <ShowColumnLabels>True</ShowColumnLabels>
-        <LabelsColor>FF58AF68</LabelsColor>
+        <IndentBlankIcons>True</IndentBlankIcons>
+        <IndentSubsplits>True</IndentSubsplits>
+        <HideSubsplits>False</HideSubsplits>
+        <ShowSubsplits>False</ShowSubsplits>
+        <CurrentSectionOnly>False</CurrentSectionOnly>
+        <OverrideSubsplitColor>False</OverrideSubsplitColor>
+        <SubsplitGradient>Plain</SubsplitGradient>
+        <ShowHeader>True</ShowHeader>
+        <IndentSectionSplit>True</IndentSectionSplit>
+        <ShowIconSectionSplit>True</ShowIconSectionSplit>
+        <ShowSectionIcon>True</ShowSectionIcon>
+        <HeaderGradient>Vertical</HeaderGradient>
+        <OverrideHeaderColor>False</OverrideHeaderColor>
+        <HeaderText>True</HeaderText>
+        <HeaderTimes>True</HeaderTimes>
+        <HeaderAccuracy>Tenths</HeaderAccuracy>
+        <SectionTimer>True</SectionTimer>
+        <SectionTimerGradient>True</SectionTimerGradient>
+        <SectionTimerAccuracy>Tenths</SectionTimerAccuracy>
+        <SubsplitTopColor>8D000000</SubsplitTopColor>
+        <SubsplitBottomColor>00FFFFFF</SubsplitBottomColor>
+        <HeaderTopColor>2BFFFFFF</HeaderTopColor>
+        <HeaderBottomColor>D8000000</HeaderBottomColor>
+        <HeaderTextColor>FFFFFFFF</HeaderTextColor>
+        <HeaderTimesColor>FFFFFFFF</HeaderTimesColor>
+        <SectionTimerColor>FF777777</SectionTimerColor>
+        <ShowColumnLabels>False</ShowColumnLabels>
+        <LabelsColor>FFFFFFFF</LabelsColor>
         <Columns>
           <Settings>
             <Version>1.5</Version>
-            <Name>PB +/-</Name>
+            <Name>+/-</Name>
             <Type>Delta</Type>
             <Comparison>Current Comparison</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
@@ -229,7 +256,8 @@
         <SplitAheadLosing>D:\Twitch\kekw.mp3</SplitAheadLosing>
         <SplitBehindGaining>D:\Twitch\kekw2.mp3</SplitBehindGaining>
         <SplitBehindLosing>D:\Twitch\kekw.mp3</SplitBehindLosing>
-        <BestSegment>D:\OOOHHHH2.wav</BestSegment>
+        <BestSegment>
+        </BestSegment>
         <UndoSplit>
         </UndoSplit>
         <SkipSplit>
@@ -238,7 +266,7 @@
         </PersonalBest>
         <NotAPersonalBest>
         </NotAPersonalBest>
-        <Reset>D:\Fucked Up CentreLink Motherfuckers.wav</Reset>
+        <Reset>D:\Twitch\kekw.mp3</Reset>
         <Pause>
         </Pause>
         <Resume>
