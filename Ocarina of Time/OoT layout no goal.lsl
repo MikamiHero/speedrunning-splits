@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>-3008</X>
-  <Y>291</Y>
+  <X>-2623</X>
+  <Y>251</Y>
   <VerticalWidth>558</VerticalWidth>
   <VerticalHeight>612</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -194,7 +194,7 @@
         <Version>1.4</Version>
         <TextColor>FFFFFFFF</TextColor>
         <OverrideTextColor>False</OverrideTextColor>
-        <TimeColor>FF82E4DA</TimeColor>
+        <TimeColor>FFFB7AE9</TimeColor>
         <OverrideTimeColor>True</OverrideTimeColor>
         <Accuracy>Seconds</Accuracy>
         <BackgroundColor>00FFFFFF</BackgroundColor>
@@ -223,8 +223,7 @@
       <Path>LiveSplit.Sound.dll</Path>
       <Settings>
         <Version>1.6</Version>
-        <Split>
-        </Split>
+        <Split>D:\Twitch\kekw2.mp3</Split>
         <SplitAheadGaining>D:\Twitch\kekw2.mp3</SplitAheadGaining>
         <SplitAheadLosing>D:\Twitch\kekw.mp3</SplitAheadLosing>
         <SplitBehindGaining>D:\Twitch\kekw2.mp3</SplitBehindGaining>
