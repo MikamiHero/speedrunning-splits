@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>-2623</X>
-  <Y>251</Y>
+  <X>-2816</X>
+  <Y>297</Y>
   <VerticalWidth>558</VerticalWidth>
   <VerticalHeight>612</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -224,10 +224,10 @@
       <Settings>
         <Version>1.6</Version>
         <Split>D:\Twitch\kekw2.mp3</Split>
-        <SplitAheadGaining>D:\Twitch\kekw2.mp3</SplitAheadGaining>
+        <SplitAheadGaining>D:\Twitch\kekw.mp3</SplitAheadGaining>
         <SplitAheadLosing>D:\Twitch\kekw.mp3</SplitAheadLosing>
         <SplitBehindGaining>D:\Twitch\kekw2.mp3</SplitBehindGaining>
-        <SplitBehindLosing>D:\Twitch\kekw.mp3</SplitBehindLosing>
+        <SplitBehindLosing>D:\Twitch\kekw2.mp3</SplitBehindLosing>
         <BestSegment>D:\OOOHHHH2.wav</BestSegment>
         <UndoSplit>
         </UndoSplit>
